@@ -1,5 +1,5 @@
 
-# I-Recharge Application
+# I-Recharge Task
 
 This project is a cloud-based application that leverages AWS infrastructure, Docker, and a CI/CD pipeline using GitHub Actions for seamless deployment. The app includes an Amazon RDS database, Amazon ECR for container storage, and automated deployment to AWS.
 
