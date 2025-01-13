@@ -42,7 +42,7 @@ Ensure you have the following installed on your local machine:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/i-recharge.git
+git clone https://github.com/ShepherdPraise/i-recharge.git
 cd i-recharge
 ```
 
